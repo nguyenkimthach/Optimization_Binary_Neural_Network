@@ -19,3 +19,4 @@ when deployed to low-profile hardware, the Raspberry Pi Zero with the CNPB
 dataset.
 
 link for CNPB dataset: https://www.kaggle.com/datasets/kimthchnguyn/ccnp-newdataset
+Link for Raspberry Pi Zero 2 W :https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
