@@ -17,3 +17,5 @@ conventional CNN model with the same structure. The processing speed of the BCNN
 model is 5.2 times faster than a conventional CNN network with a similar structure
 when deployed to low-profile hardware, the Raspberry Pi Zero with the CNPB
 dataset.
+
+link for CNPB dataset: https://www.kaggle.com/datasets/kimthchnguyn/ccnp-newdataset
